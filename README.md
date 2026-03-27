@@ -63,6 +63,3 @@ client.close()
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
 
-## OUPUT
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
